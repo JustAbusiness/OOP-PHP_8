@@ -2,6 +2,6 @@
 
 require ('Math/Circle/Circle.php');
 
-$circle = new Circle();
+$circle = new Math\Circle\Circle();
 
-echo $circle->getAreaCircle(12);
+echo $circle->getAreaCircle(13);
